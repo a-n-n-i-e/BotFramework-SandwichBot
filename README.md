@@ -1,25 +1,25 @@
 # BotFramework-SandwichBot
 
-##ŠT—v | Description
+##æ¦‚è¦ | Description
 
-[Microsoft Bot Framework v3.0}(https://www.botframework.com/) ‚É‚æ‚é ƒTƒ“ƒhƒCƒbƒ`’•¶ó•tBOT ƒTƒ“ƒvƒ‹‚Å‚·B
-ì‚è•û‚Í [Microsoft Bot Framework v3.0 ‚©‚ç‚Í‚¶‚ß‚é BOT ŠJ”­](http://qiita.com/annie/items/edc26c0ee9603e84a2e4) ‚ğ‚²——‚­‚¾‚³‚¢B
+[Microsoft Bot Framework v3.0](https://www.botframework.com/) ã«ã‚ˆã‚‹ ã‚µãƒ³ãƒ‰ã‚¤ãƒƒãƒæ³¨æ–‡å—ä»˜BOT ã‚µãƒ³ãƒ—ãƒ«ã§ã™ã€‚
+ä½œã‚Šæ–¹ã¯ [Microsoft Bot Framework v3.0 ã‹ã‚‰ã¯ã˜ã‚ã‚‹ BOT é–‹ç™º](http://qiita.com/annie/items/edc26c0ee9603e84a2e4) ã‚’ã”è¦§ãã ã•ã„ã€‚
 
 This is sandwich order sample bot in sandwich shop by [Microsoft Bot Framework v3.0](https://www.botframework.com/)
 How to develop this, please refer: [BOT development using Microsoft Bot Framework v3.0](http://qiita.com/annie/items/edc26c0ee9603e84a2e4)
 
-##g—pŠÂ‹« | Environment
+##ä½¿ç”¨ç’°å¢ƒ | Environment
 
-Windows 10 (Anniversary Update), Visual Studio 2015, Microsoft Bot Framework v3.0 ƒeƒ“ƒvƒŒ[ƒg ‚Åì¬‚³‚ê‚Ä‚¢‚Ü‚·B
-ŠÂ‹«\¬•û–@‚Í [Bot Framework ‚ğg‚¤‚½‚ß‚ÌŠJ”­ŠÂ‹«](http://qiita.com/annie/items/edc26c0ee9603e84a2e4#bot-framework-%E3%82%92%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83) ‚ğ‚²——‚­‚¾‚³‚¢B
+Windows 10 (Anniversary Update), Visual Studio 2015, Microsoft Bot Framework v3.0 ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ ã§ä½œæˆã•ã‚Œã¦ã„ã¾ã™ã€‚
+ç’°å¢ƒæ§‹æˆæ–¹æ³•ã¯ [Bot Framework ã‚’ä½¿ã†ãŸã‚ã®é–‹ç™ºç’°å¢ƒ](http://qiita.com/annie/items/edc26c0ee9603e84a2e4#bot-framework-%E3%82%92%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83) ã‚’ã”è¦§ãã ã•ã„ã€‚
 
 Developed on Windows 10 (Anniversary Update), Visual Studio 2015 and Microsoft Bot Framework v3.0 Template.
 How to get envorpnment, please refer [Environment for Bot Framework development](http://qiita.com/annie/items/edc26c0ee9603e84a2e4#bot-framework-%E3%82%92%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83).
 
-##—˜—p•û–@ | How to User
-ƒ_ƒEƒ“ƒ[ƒhŒãAVisual Studio ‚Ìƒ\ƒŠƒ…[ƒVƒ‡ƒ“ƒtƒ@ƒCƒ‹(SandwichBot.sln)‚ğŠJ‚«Aƒrƒ‹ƒh‚ğs‚Á‚Ä•K—v‚Èƒ‰ƒCƒuƒ‰ƒŠ‚Ì“Ç‚İ‚İ‚ğs‚Á‚Ä‚­‚¾‚³‚¢B
-WebƒAƒvƒŠ‚Æ‚µ‚Ä‹N“®‚µ‚½‚çABot Framework Channel Emulator ‚ÅƒAƒNƒZƒX‚µ‚Ü‚·B
-Emulator ‚Ì—˜—p•û–@‚Í [BotƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Ìƒ[ƒJƒ‹Às‚ÆƒGƒ~ƒ…ƒŒ[ƒ^[‚É‚æ‚éƒAƒNƒZƒX](http://qiita.com/annie/items/edc26c0ee9603e84a2e4#bot%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E5%AE%9F%E8%A1%8C%E3%81%A8%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9) ‚ğ‚²——‚­‚¾‚³‚¢B
+##åˆ©ç”¨æ–¹æ³• | How to User
+ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰å¾Œã€Visual Studio ã®ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«(SandwichBot.sln)ã‚’é–‹ãã€ãƒ“ãƒ«ãƒ‰ã‚’è¡Œã£ã¦å¿…è¦ãªãƒ©ã‚¤ãƒ–ãƒ©ãƒªã®èª­ã¿è¾¼ã¿ã‚’è¡Œã£ã¦ãã ã•ã„ã€‚
+Webã‚¢ãƒ—ãƒªã¨ã—ã¦èµ·å‹•ã—ãŸã‚‰ã€Bot Framework Channel Emulator ã§ã‚¢ã‚¯ã‚»ã‚¹ã—ã¾ã™ã€‚
+Emulator ã®åˆ©ç”¨æ–¹æ³•ã¯ [Botã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã®ãƒ­ãƒ¼ã‚«ãƒ«å®Ÿè¡Œã¨ã‚¨ãƒŸãƒ¥ãƒ¬ãƒ¼ã‚¿ãƒ¼ã«ã‚ˆã‚‹ã‚¢ã‚¯ã‚»ã‚¹](http://qiita.com/annie/items/edc26c0ee9603e84a2e4#bot%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E5%AE%9F%E8%A1%8C%E3%81%A8%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9) ã‚’ã”è¦§ãã ã•ã„ã€‚
 
 After download bits, open solution file (SandwichBot.sln) and make build so to import nesessary libraries.
 While working web app, access via Bot Framework Channel Emulator.
