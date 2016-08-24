@@ -10,10 +10,10 @@ How to develop this, please refer: [BOT development using Microsoft Bot Framewor
 
 ##使用環境 | Environment
 
-Windows 10 (Anniversary Update), Visual Studio 2015, Microsoft Bot Framework v3.0 テンプレート で作成されています。
+Windows 10 (Anniversary Update), Visual Studio 2015 (Enterprise, Update 3), Microsoft Bot Framework v3.0 テンプレート で作成されています。
 環境構成方法は [Bot Framework を使うための開発環境](http://qiita.com/annie/items/edc26c0ee9603e84a2e4#bot-framework-%E3%82%92%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83) をご覧ください。
 
-Developed on Windows 10 (Anniversary Update), Visual Studio 2015 and Microsoft Bot Framework v3.0 Template.
+Developed on Windows 10 (Anniversary Update), Visual Studio 2015 (Enterprise, Update 3) and Microsoft Bot Framework v3.0 Template.
 How to get envorpnment, please refer [Environment for Bot Framework development](http://qiita.com/annie/items/edc26c0ee9603e84a2e4#bot-framework-%E3%82%92%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83).
 
 ##利用方法 | How to User
